@@ -1,5 +1,5 @@
 [MD]
-steps                                       16900000 ! para terminar 50ns
+steps                                       25000000 ! para terminar 50ns
 random_seed                                       2
 temperature                                     300
 !initial_temperature                             0.1
